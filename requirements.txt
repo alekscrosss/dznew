@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+python-jose>=3.3.0
+passlib
+python-multipart
+aiosmtplib
+python-dotenv
+slowapi
+cloudinary
